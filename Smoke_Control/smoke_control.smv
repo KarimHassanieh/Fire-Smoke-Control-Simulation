@@ -354,23 +354,20 @@ SLCF     1 # STRUCTURED &     0    40    32    32     0    12 !      4
  VELOCITY
  vel
  m/s
-SLCF     1 # STRUCTURED &     0    40     0    41     9     9 !      5
- smoke_control_0001_05.sf
+PL3D    19.19     1
+ smoke_control_0001_00000019_19.q
  TEMPERATURE
  temp
  C
-SLCF     1 # STRUCTURED &    34    34     0    41     0    12 !      6
- smoke_control_0001_06.sf
- TEMPERATURE
- temp
- C
-SLCF     1 # STRUCTURED &     0    40    10    10     0    12 !      7
- smoke_control_0001_07.sf
- TEMPERATURE
- temp
- C
-SLCF     1 # STRUCTURED &     0    40    32    32     0    12 !      8
- smoke_control_0001_08.sf
- TEMPERATURE
- temp
- C
+ U-VELOCITY
+ U-VEL
+ m/s
+ V-VELOCITY
+ V-VEL
+ m/s
+ W-VELOCITY
+ W-VEL
+ m/s
+ HRRPUV
+ hrrpuv
+ kW/m3
